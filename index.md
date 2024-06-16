@@ -20,7 +20,7 @@ More recently, I have been interested in in-context learning, adaptive, paramete
 
 - **[May 2024]** Our paper “Nonsmooth Implicit Differentiation: Deterministic and Stochastic Convergence Rates” has been accepted at ICML 2024.
 - **[May 2024]** Our paper “Is Mamba Capable of In-Context Learning?” has been accepted at the conference on AutoML.
-- **[April 2024]** We gave a talk at the AutoML Online Seminar on the work "Is Mamba Capable of In-Context Learning?" [(YouTube link)](https://www.youtube.com/watch?v=q5-RPiBP2Bs)
+- **[April 2024]** Julien and I gave a talk at the AutoML Online Seminar on the work "Is Mamba Capable of In-Context Learning?" [(YouTube link)](https://www.youtube.com/watch?v=q5-RPiBP2Bs)
 - **[March 2024]** Our paper “Is Mamba Capable of In-Context Learning?” has been accepted at the ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models (ME-FoMo).
 
 
