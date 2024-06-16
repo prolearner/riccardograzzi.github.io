@@ -1,0 +1,114 @@
+main:
+
+  - title: Nonsmooth Implicit Differentiation, Deterministic and Stochastic Convergence Rates
+    authors: Riccardo Grazzi, Massimiliano Pontil, Saverio Salzo
+    conference_short: ICML
+    conference: Intenrnational Conference of Machine Learning, 2024.
+    pdf: https://arxiv.org/pdf/2403.11687.pdf
+    code: http://github.com/prolearner/nonsmooth_implicit_diff
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # notes: Oral Presentation
+    image: ./assets/img/nonsmooth.png
+
+  - title: "Is Mamba Capable of In-Context Learning?"
+    authors: Riccardo Grazzi*, Julien Siems*, Simon Schrodi, Thomas Brox, Frank Hutter (*equal contribution)
+    conference_short: AutoML
+    conference: International Conference on Automated Machine Learning, 2024.
+    pdf: https://arxiv.org/pdf/2402.03170.pdf
+    code: https://github.com/automl/is_mamba_capable_of_icl
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/mamba_in_contex.png
+
+  - title: "Learning invariant representations of time-homogeneous stochastic dynamical systems"
+    authors: Vladimir R. Kostic, Pietro Novelli, Riccardo Grazzi, Karim Lounici, Massimiliano Pontil
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2024.
+    pdf: https://arxiv.org/pdf/2307.09912
+    page: https://pietronvll.github.io/DPNets/
+    code: https://github.com/pietronvll/DPNets
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/dpnets.png
+ 
+  - title: "Bilevel Optimization with a Lower-level Contraction: Optimal Sample Complexity without Warm-start"
+    authors: Riccardo Grazzi, Massimiliano Pontil, Saverio Salzo
+    conference_short: JMLR
+    conference: Journal of Machine Learning Research, 2023.
+    pdf: https://arxiv.org/pdf/2202.03397
+    code: https://github.com/CSML-IIT-UCL/bioptexps
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/bilevelrates.png
+ 
+  - title: "Group Meritocratic Fairness in Linear Contextual Bandits"
+    authors: Riccardo Grazzi, Arya Akhavan, John Isak Texas Falk, Leonardo Cella, Massimiliano Pontil
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems, 2022.
+    pdf: https://arxiv.org/pdf/2206.03150
+    code: https://github.com/CSML-IIT-UCL/GMFbandits
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/GMF.png
+
+  - title: "Meta-Forecasting by combining Global Deep Representations with Local Adaptation"
+    authors: Riccardo Grazzi, Valentin Flunkert, David Salinas, Tim Januschowski, Matthias Seeger, Cedric Archambeau
+    conference_short: Arxiv
+    # conference: International Conference on Artificial Intelligence and Statistics, 2021.
+    pdf: https://arxiv.org/pdf/2111.03418
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/metaforecasting.png
+
+  
+  - title: "Convergence Properties of Stochastic Hypergradients"
+    authors: Riccardo Grazzi, Massimiliano Pontil, Saverio Salzo
+    conference_short: AISTATS
+    conference: International Conference on Artificial Intelligence and Statistics, 2021.
+    pdf: https://arxiv.org/pdf/2011.07122
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/stochhyper.png
+
+
+  - title: "On the Iteration Complexity of Hypergradient Computation"
+    authors: Riccardo Grazzi, Luca Franceschi, Massimiliano Pontil, Saverio Salzo
+    conference_short: ICML
+    conference: Intenrnational Conference of Machine Learning, 2020.
+    pdf: https://arxiv.org/pdf/2006.16218
+    code: https://github.com/prolearner/hypertorch
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/iterhyper.png
+
+  - title: "Learning-to-Learn Stochastic Gradient Descent with Biased Regularization"
+    authors: Giulia Denevi, Carlo Ciliberto, Riccardo Grazzi, Massimiliano Pontil
+    conference_short: ICML
+    conference: Intenrnational Conference of Machine Learning, 2019.
+    pdf: https://arxiv.org/pdf/1903.10399
+    code: https://github.com/prolearner/onlineLTL
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/onlineLTL.png
+
+
+  - title: "Bilevel Programming for Hyperparameter Optimization and Meta-Learning"
+    authors: Luca Franceschi, Paolo Frasconi, Saverio Salzo, Riccardo Grazzi, Massimilano Pontil
+    conference_short: ICML
+    conference: Intenrnational Conference of Machine Learning, 2018.
+    pdf: https://arxiv.org/pdf/1806.04910
+    code: https://github.com/prolearner/hyper-representation
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/homl.png
+
+  - title: "Far-HO: A Bilevel Programming Package for Hyperparameter Optimization and Meta-Learning"
+    authors: Luca Franceschi, Riccardo Grazzi, Massimiliano Pontil, Saverio Salzo, Paolo Frasconi
+    conference_short: AutoML
+    conference: AutoML Workshop, ICML 2018 
+    pdf: https://arxiv.org/pdf/1806.04941
+    # code: https://github.com/prolearner/hyper-representation
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/farho.png
