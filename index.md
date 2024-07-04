@@ -7,9 +7,9 @@ layout: homepage
 I am a Post Doc in the CSML group in IIT in Genoa and was previously a PhD Student at IIT and UCL under the supervision of Massimiliano Pontil.
 
 I like to study and design efficient and scalable machine learning methods. 
-The main focus of my research has been on efficient gradient-based bilevel optimization, with applications to hyperparameter optimization and meta-learning. In particular, I studied the rate of convergence in deterministic and stochastic and non-smooth settings. 
+The main focus of my research has been on efficient gradient-based bilevel optimization, with applications to hyperparameter optimization and meta-learning. In particular, I studied the rate of convergence in deterministic, stochastic and non-smooth settings. 
 
-More recently, I have been interested in in-context learning, adaptive, parameter-free optimization techniques and learning methods for dynamical systems.
+More recently, I have been interested in in-context learning, in adaptive, parameter-free optimization techniques and in learning methods for dynamical systems.
 
 <!-- ## Research Interests
 
