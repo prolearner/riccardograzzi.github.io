@@ -7,9 +7,9 @@ layout: homepage
 I am a Post Doc in the CSML group in IIT in Genoa and was previously a PhD Student at IIT and UCL under the supervision of Massimiliano Pontil.
 
 I like to study and design efficient and scalable machine learning methods. 
-The main focus of my research has been on efficient gradient-based bilevel optimization, with applications to hyperparameter optimization and meta-learning. In particular, I studied the rate of convergence in deterministic, stochastic and non-smooth settings. 
+My main focus is on state-tracking and in-context learning for Linear RNNs.
 
-More recently, I have been interested in in-context learning, in adaptive, parameter-free optimization techniques and in learning methods for dynamical systems.
+Previously, I focused on efficient gradient-based bilevel optimization, with applications to hyperparameter optimization and meta-learning. In particular, I studied the rate of convergence in deterministic, stochastic and non-smooth settings. 
 
 <!-- ## Research Interests
 
@@ -18,6 +18,7 @@ More recently, I have been interested in in-context learning, in adaptive, param
 
 ## News
 
+- **[Oct 2024]** Our paper “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues” has been accepted at the NeurIPS 2024 workshop Mathematics of Modern Machine Learning (M3L).
 - **[May 2024]** Our paper “Nonsmooth Implicit Differentiation: Deterministic and Stochastic Convergence Rates” has been accepted at ICML 2024.
 - **[May 2024]** Our paper “Is Mamba Capable of In-Context Learning?” has been accepted at the conference on AutoML.
 - **[April 2024]** Julien and I gave a talk at the AutoML Online Seminar on the work "Is Mamba Capable of In-Context Learning?" [(YouTube link)](https://www.youtube.com/watch?v=q5-RPiBP2Bs) [(Extended Slides)](https://docs.google.com/presentation/d/e/2PACX-1vSU577DacRC1VDjMmqmY_JMiATDxc3JRPSgDzrM_QDqf3ZjE64IXcXvBAmHm14TAQXbCtptFsSkokFz/pub?start=false&loop=false&delayms=3000&slide=id.p)
