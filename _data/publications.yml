@@ -1,9 +1,29 @@
 main:
 
+  - title: DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders
+    authors: Julien Siems, Timur Carstensen, Arber Zela, Frank Hutter, Massimiliano Pontil, Riccardo Grazzi
+    conference_short: Arxiv
+    conference: Arxiv, 2025
+    pdf: https://arxiv.org/pdf/2502.10297
+    # code: 
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # notes: Oral
+    image: ./assets/img/deltaproduct.png
+
+  - title: Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues
+    authors: Riccardo Grazzi, Julien Siems, Jörg K.H. Franke, Arber Zela, Frank Hutter, Massimiliano Pontil
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2025.
+    pdf: https://arxiv.org/pdf/2411.12537
+    code: https://github.com/automl/unlocking_state_tracking
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    notes: Oral
+    image: ./assets/img/unlocking.jpeg
+
   - title: Nonsmooth Implicit Differentiation, Deterministic and Stochastic Convergence Rates
     authors: Riccardo Grazzi, Massimiliano Pontil, Saverio Salzo
     conference_short: ICML
-    conference: Intenrnational Conference of Machine Learning, 2024.
+    conference: International Conference of Machine Learning, 2024.
     pdf: https://arxiv.org/pdf/2403.11687.pdf
     code: http://github.com/prolearner/nonsmooth_implicit_diff
     # bibtex: https://bib.yliu.me/MICCAI23.txt
