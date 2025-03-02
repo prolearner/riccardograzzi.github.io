@@ -20,7 +20,7 @@ Previously, I worked on efficient gradient-based bilevel optimization, with appl
 ## News
 
 - **[Feb 2024]**  “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues” has been accepted as an Oral at ICLR 2025.
-- **[Jan 2024]**  I gave two online seminars on “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues”. [FlANN Seminar](https://youtu.be/mGtt4bJ4RiE?si=PmAqiNJQMdOxvqdY),  with a stronger focus on theory. [AutoML Seminar](https://youtu.be/E2qBhMmjspU?si=lScFUuZ59_c6rZCc), featuring Julien Siems, with a stronger focus on experiments. 
+- **[Jan 2024]**  I gave two online seminars on “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues”. [FLANN Seminar](https://youtu.be/mGtt4bJ4RiE?si=PmAqiNJQMdOxvqdY),  with a stronger focus on theory. [AutoML Seminar](https://youtu.be/E2qBhMmjspU?si=lScFUuZ59_c6rZCc), featuring Julien Siems, with a stronger focus on experiments. 
 - **[Oct 2024]**  “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues” has been accepted at the NeurIPS 2024 workshop Mathematics of Modern Machine Learning (M3L).
 - **[Oct 2024]**  “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues” has been accepted at the NeurIPS 2024 workshop Mathematics of Modern Machine Learning (M3L).
 - **[May 2024]**  “Nonsmooth Implicit Differentiation: Deterministic and Stochastic Convergence Rates” has been accepted at ICML 2024.
@@ -29,7 +29,7 @@ Previously, I worked on efficient gradient-based bilevel optimization, with appl
 - **[March 2024]** Our paper “Is Mamba Capable of In-Context Learning?” has been accepted at the ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models (ME-FoMo).
 
 # Seminars and Lectures
-- [January 2025] Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues, FlANN Online Seminar
+- [January 2025] Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues, FLANN Online Seminar
 [(Youtube Link)](https://youtu.be/mGtt4bJ4RiE?si=PmAqiNJQMdOxvqdY)
 - [January 2025] Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues, AutoML Online Seminar
 [(Youtube Link)](https://youtu.be/E2qBhMmjspU?si=lScFUuZ59_c6rZCc)
