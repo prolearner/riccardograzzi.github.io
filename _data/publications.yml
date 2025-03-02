@@ -12,12 +12,12 @@ main:
 
   - title: "Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues"
     authors: Riccardo Grazzi, Julien Siems, Jörg K.H. Franke, Arber Zela, Frank Hutter, Massimiliano Pontil
-    conference_short: ICLR
+    conference_short: ICLR (Oral)
     conference: International Conference on Learning Representations, 2025.
     pdf: https://arxiv.org/pdf/2411.12537
     code: https://github.com/automl/unlocking_state_tracking
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    notes: Oral
+    # notes: Oral
     image: ./assets/img/unlocking.jpeg
 
   - title: "Nonsmooth Implicit Differentiation, Deterministic and Stochastic Convergence Rates"
