@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I like to study and design efficient and scalable machine learning methods. 
-My main focus is on state-tracking and in-context learning for LLMs. I am a Researcher at Microsoft Cambrdige, was a Post Doc at IIT in Genoa,
+My main focus is on state-tracking and quantization for LLMs. I am a Researcher at Microsoft Cambrdige, and was a Post Doc at IIT in Genoa,
 and before that a PhD Student at IIT and UCL.
 
 <!-- ## Research Interests
@@ -14,7 +14,7 @@ and before that a PhD Student at IIT and UCL.
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
-
+- **[Mar 2025]**  “DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products” as been accepted as an Oral at the ICLR 2025 workshop on Foundation Models in the Wild.
 - **[Feb 2025]**  “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues” has been accepted as an Oral at ICLR 2025.
 - **[Jan 2025]**  I gave two online seminars on “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues”. [FLANN Seminar](https://youtu.be/mGtt4bJ4RiE?si=PmAqiNJQMdOxvqdY),  with a stronger focus on theory. [AutoML Seminar](https://youtu.be/E2qBhMmjspU?si=lScFUuZ59_c6rZCc), featuring Julien Siems, with a stronger focus on experiments. 
 - **[Oct 2024]**  “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues” has been accepted at the NeurIPS 2024 workshop Mathematics of Modern Machine Learning (M3L).
@@ -26,6 +26,8 @@ and before that a PhD Student at IIT and UCL.
 - **[March 2024]** Our paper “Is Mamba Capable of In-Context Learning?” has been accepted at the ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models (ME-FoMo). -->
 
 # Seminars and Lectures
+- [March 2025] State Tracking in Scalable Linear RNNs, ASAP Online Seminar
+[(Youtube Link)](https://www.youtube.com/watch?v=R_0vSJvhvWg)
 - [January 2025] Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues, FLANN Online Seminar
 [(Youtube Link)](https://youtu.be/mGtt4bJ4RiE?si=PmAqiNJQMdOxvqdY)
 - [January 2025] Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues, AutoML Online Seminar
