@@ -1,9 +1,31 @@
 main:
 
-  - title: "DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders"
-    authors: Julien Siems, Timur Carstensen, Arber Zela, Frank Hutter, Massimiliano Pontil, Riccardo Grazzi
+  - title: "Bilevel learning"
+    authors: Riccardo Grazzi, Massimiliano Pontil, Saverio Salzo, Alain Zemkoho
     conference_short: Arxiv
-    conference: Arxiv, 2025
+    conference: Arxiv, 2026.
+    pdf: https://arxiv.org/pdf/2605.01621
+    image: ./assets/img/bilevellearning.svg
+
+  - title: "Learning State-Tracking from Code Using Linear RNNs"
+    authors: Julien Siems, Riccardo Grazzi, Korbinian Pöppel, Kirill Kalinin, Hitesh Ballani, Babak Rahmani
+    conference_short: ICBINB@ICLR
+    conference: I Can't Believe It's Not Better workshop at ICLR 2026.
+    pdf: https://arxiv.org/pdf/2602.14814
+    image: ./assets/img/state_tracking_code.svg
+
+  - title: "OptRot: Mitigating Weight Outliers via Data-Free Rotations for Post-Training Quantization"
+    authors: Advait Gadhikar, Riccardo Grazzi, James Hensman
+    conference_short: MLForSys@NeurIPS
+    conference: Workshop on Machine Learning for Systems (MLForSys) @ NeurIPS, 2025.
+    pdf: https://arxiv.org/pdf/2512.24124
+    page: https://openreview.net/forum?id=4uwRaBhjHY
+    image: ./assets/img/optrot.svg
+
+  - title: "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products"
+    authors: Julien Siems, Timur Carstensen, Arber Zela, Frank Hutter, Massimiliano Pontil, Riccardo Grazzi
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems, 2025.
     pdf: https://arxiv.org/pdf/2502.10297
     # code: 
     # bibtex: https://bib.yliu.me/MICCAI23.txt

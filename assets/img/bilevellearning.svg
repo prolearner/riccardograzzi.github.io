@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1448 636" role="img" aria-labelledby="title desc">
+  <title id="title">Bilevel learning teaser</title>
+  <desc id="desc">A clean diagram showing a lower-level optimization loop feeding an upper-level learning objective.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7fbff"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="upper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="lower" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#1e293b" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1448" height="636" rx="44" fill="url(#bg)"/>
+  <path d="M0 498 C250 410 434 552 660 478 C842 419 957 269 1182 317 C1308 344 1389 417 1448 387 L1448 636 L0 636 Z" fill="#bfdbfe" opacity="0.55"/>
+  <g filter="url(#shadow)">
+    <rect x="126" y="132" width="506" height="170" rx="34" fill="url(#upper)"/>
+    <rect x="816" y="334" width="506" height="170" rx="34" fill="url(#lower)"/>
+  </g>
+  <text x="379" y="212" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800" fill="#ffffff">Upper level</text>
+  <text x="379" y="258" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" fill="#dbeafe">learn hyperparameters</text>
+  <text x="1069" y="414" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800" fill="#ffffff">Lower level</text>
+  <text x="1069" y="460" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" fill="#ccfbf1">solve training problem</text>
+  <path d="M644 220 C781 204 848 241 920 329" fill="none" stroke="#1e293b" stroke-width="18" stroke-linecap="round" opacity="0.25"/>
+  <path d="M644 220 C781 204 848 241 920 329" fill="none" stroke="#2563eb" stroke-width="8" stroke-linecap="round"/>
+  <path d="M913 296 L935 348 L881 336" fill="#2563eb"/>
+  <path d="M804 421 C650 440 568 391 511 310" fill="none" stroke="#1e293b" stroke-width="18" stroke-linecap="round" opacity="0.25"/>
+  <path d="M804 421 C650 440 568 391 511 310" fill="none" stroke="#0f766e" stroke-width="8" stroke-linecap="round"/>
+  <path d="M513 344 L493 291 L547 306" fill="#0f766e"/>
+  <text x="724" y="87" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="900" fill="#0f172a">Bilevel learning</text>
+  <text x="724" y="575" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="700" fill="#334155">scalable gradient methods · constrained lower levels · machine learning</text>
+</svg>

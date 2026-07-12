@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I like to study and design efficient and scalable machine learning methods. 
-My main focus is on state-tracking and quantization for LLMs. I am a Researcher at Microsoft Cambrdige, and was a Post Doc at IIT in Genoa,
+My main focus is on state-tracking and quantization for LLMs. I am a Researcher at Microsoft Cambridge, and was a Post Doc at IIT in Genoa,
 and before that a PhD Student at IIT and UCL.
 
 <!-- ## Research Interests
@@ -14,10 +14,13 @@ and before that a PhD Student at IIT and UCL.
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
-- **[Mar 2025]**  “DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products” as been accepted as an Oral at the ICLR 2025 workshop on Foundation Models in the Wild.
+- **[May 2026]** “Bilevel learning” is now available on arXiv.
+- **[Feb 2026]** “Learning State-Tracking from Code Using Linear RNNs” has been accepted at the ICBINB workshop at ICLR 2026.
+- **[Dec 2025]** “OptRot: Mitigating Weight Outliers via Data-Free Rotations for Post-Training Quantization” has been accepted at the MLForSys workshop at NeurIPS 2025.
+- **[Sep 2025]** “DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products” has been accepted at NeurIPS 2025.
+- **[Mar 2025]**  “DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products” has been accepted as an Oral at the ICLR 2025 workshop on Foundation Models in the Wild.
 - **[Feb 2025]**  “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues” has been accepted as an Oral at ICLR 2025.
 - **[Jan 2025]**  I gave two online seminars on “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues”. [FLANN Seminar](https://youtu.be/mGtt4bJ4RiE?si=PmAqiNJQMdOxvqdY),  with a stronger focus on theory. [AutoML Seminar](https://youtu.be/E2qBhMmjspU?si=lScFUuZ59_c6rZCc), featuring Julien Siems, with a stronger focus on experiments. 
-- **[Oct 2024]**  “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues” has been accepted at the NeurIPS 2024 workshop Mathematics of Modern Machine Learning (M3L).
 - **[Oct 2024]**  “Unlocking State-Tracking in Linear RNNs Through Negative Eigenvalues” has been accepted at the NeurIPS 2024 workshop Mathematics of Modern Machine Learning (M3L).
 - **[May 2024]**  “Nonsmooth Implicit Differentiation: Deterministic and Stochastic Convergence Rates” has been accepted at ICML 2024.
 - **[May 2024]** “Is Mamba Capable of In-Context Learning?” has been accepted at the conference on AutoML.
