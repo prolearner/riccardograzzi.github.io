@@ -14,6 +14,7 @@ and before that a PhD Student at IIT and UCL.
 - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
+- **[Sep 2026]** “Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention” is now available on [arXiv](https://arxiv.org/abs/2609.24797).
 - **[May 2026]** “Bilevel learning” is now available on arXiv.
 - **[Feb 2026]** “Learning State-Tracking from Code Using Linear RNNs” has been accepted at the ICBINB workshop at ICLR 2026.
 - **[Dec 2025]** “OptRot: Mitigating Weight Outliers via Data-Free Rotations for Post-Training Quantization” has been accepted at the MLForSys workshop at NeurIPS 2025.

@@ -1,5 +1,15 @@
 main:
 
+  - title: "Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention"
+    authors: Julien Siems*, Riccardo Grazzi*, Korbinian Pöppel*, Jaisidh Singh, Arber Zela, Timur Carstensen, Jenia Jitsev, Frank Hutter, Volkan Cevher, Antonio Orvieto, Aaron Klein (*equal contribution)
+    conference_short: arXiv
+    conference: arXiv, 2026.
+    pdf: https://arxiv.org/pdf/2609.24797
+    code: https://github.com/OpenEuroLLM/ComplexKDA
+    # Animation source: https://juliensiems.github.io/assets/img/signed_kda_hand.gif
+    image: ./assets/img/complex_kda.gif
+    image_fit: contain
+
   - title: "Bilevel learning"
     authors: Riccardo Grazzi, Massimiliano Pontil, Saverio Salzo, Alain Zemkoho
     conference_short: Arxiv
